@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning `FARM Stack`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `AI Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
