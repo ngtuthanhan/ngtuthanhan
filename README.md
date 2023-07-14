@@ -6,7 +6,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://ngtuthanhan.github.io/)**
 
-- 🔭 I’m currently studying at `University of Information Technology`.
+- 🔭 I’m currently studying at `University of Information Technology`
 
 - 🌱 I’m currently learning `FARM Stack`
 
