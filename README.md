@@ -11,14 +11,14 @@
 - 🌱 I’m currently learning `FARM Stack`
 
 - 👯 I’m looking to collaborate for `AI Projects`
-
+<!---
 - 🤔 I’m looking for help with `Competitive Programming`
 
 - 💬 Ask me about anything :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-<!--- ⚡ Fun fact
+- ⚡ Fun fact
 ## 🛠️ Technologies and Tools I use:
 
 <p>
