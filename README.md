@@ -12,6 +12,7 @@
 
 - 👯 I’m looking to collaborate for `AI Projects`
 <!---
+https://github.com/anuraghazra/github-readme-stats?fbclid=IwAR0lK-c8T-2h7GOueB_H9AFyJgt3007M_TXi06u5pB65afdCbB8L_3FLSOM
 - 🤔 I’m looking for help with `Competitive Programming`
 
 - 💬 Ask me about anything :sweat_smile:
