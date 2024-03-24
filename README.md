@@ -6,12 +6,12 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://ngtuthanhan.github.io/)**
 
-- 🔭 I’m currently studying at `University of Information Technology`
-
+- 🔭 I graduated with Excellent Honors in `Computer Science` at `University of Information Technology`
+<!---
 - 🌱 I’m currently learning `FARM Stack`
 
 - 👯 I’m looking to collaborate for `AI Projects`
-<!---
+
 https://github.com/anuraghazra/github-readme-stats?fbclid=IwAR0lK-c8T-2h7GOueB_H9AFyJgt3007M_TXi06u5pB65afdCbB8L_3FLSOM
 - 🤔 I’m looking for help with `Competitive Programming`
 
